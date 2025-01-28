@@ -1,0 +1,155 @@
+[
+  {
+    "id": "test1",
+    "title": "Math Exam",
+    "pattern": "MCQs and Short Answer",
+    "time": "2 hours",
+    "totalMarks": 100,
+    "duration": 120,
+    "testQuestions": [
+      {
+        "questionId": "Q1",
+        "subject": "Physics",
+        "questionText": "What is the acceleration due to gravity on Earth?",
+        "option": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "11 m/s²"],
+        "correctAnswer": "9.8 m/s²",
+        "questionType": "SCQ"
+      },
+      {
+        "questionId": "Q2",
+        "subject": "Chemistry",
+        "questionText": "What is the chemical formula for water?",
+        "option": ["H2O", "CO2", "O2", "NaCl"],
+        "correctAnswer": "H2O",
+        "questionType": "SCQ"
+      },
+      {
+        "questionId": "Q3",
+        "subject": "Mathematics",
+        "questionText": "What is the value of pi?",
+        "option": ["3.14", "3.1415", "3.16", "3.13"],
+        "correctAnswer": "3.14",
+        "questionType": "SCQ"
+      },
+      {
+        "questionId": "Q4",
+        "subject": "Mathematics",
+        "questionText": "Select all prime numbers.",
+        "option": ["2", "4", "3", "5"],
+        "correctAnswer": "2,3,5",
+        "questionType": "MCQ"
+      },
+      {
+        "questionId": "Q5",
+        "subject": "Physics",
+        "questionText": "What is the speed of light in vacuum (m/s)?",
+        "option": [],
+        "correctAnswer": "299792458",
+        "questionType": "INT"
+      }
+    ],
+    "testDateAndTime": "2025-01-03T20:58:00"
+  },
+  {
+    "id": "test2",
+    "title": "History Exam",
+    "pattern": "Essay and Short Answer",
+    "time": "3 hours",
+    "totalMarks": 120,
+    "duration": 120,
+    "testQuestions": [
+      {
+        "questionId": "Q1",
+        "subject": "Biology",
+        "questionText": "What is the powerhouse of the cell?",
+        "option": ["Mitochondria", "Nucleus", "Ribosome", "Endoplasmic Reticulum"],
+        "correctAnswer": "Mitochondria",
+        "questionType": "SCQ"
+      },
+      {
+        "questionId": "Q2",
+        "subject": "Physics",
+        "questionText": "What is the unit of electric current?",
+        "option": ["Ampere", "Volt", "Ohm", "Watt"],
+        "correctAnswer": "Ampere",
+        "questionType": "SCQ"
+      },
+      {
+        "questionId": "Q3",
+        "subject": "Chemistry",
+        "questionText": "Which element is represented by the symbol 'O'?",
+        "option": ["Oxygen", "Osmium", "Ozone", "Oganesson"],
+        "correctAnswer": "Oxygen",
+        "questionType": "SCQ"
+      },
+      {
+        "questionId": "Q4",
+        "subject": "History",
+        "questionText": "Which of the following are U.S. presidents?",
+        "option": ["George Washington", "Alexander Hamilton", "Thomas Jefferson", "Theodore Roosevelt"],
+        "correctAnswer": "George Washington,Thomas Jefferson,Theodore Roosevelt",
+        "questionType": "MCQ"
+      },
+      {
+        "questionId": "Q5",
+        "subject": "Mathematics",
+        "questionText": "What is 15 multiplied by 3?",
+        "option": [],
+        "correctAnswer": "45",
+        "questionType": "INT"
+      }
+    ],
+    "testDateAndTime": "2025-01-02T22:34:00Z"
+  },
+  {
+    "id": "test3",
+    "title": "Science Exam",
+    "pattern": "MCQs and Practical",
+    "time": "1.5 hours",
+    "totalMarks": 80,
+    "duration": 90,
+    "testQuestions": [
+      {
+        "questionId": "Q1",
+        "subject": "Mathematics",
+        "questionText": "What is the square root of 16?",
+        "option": ["4", "5", "6", "7"],
+        "correctAnswer": "4",
+        "questionType": "SCQ"
+      },
+      {
+        "questionId": "Q2",
+        "subject": "History",
+        "questionText": "Who was the first president of the United States?",
+        "option": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+        "correctAnswer": "George Washington",
+        "questionType": "SCQ"
+      },
+      {
+        "questionId": "Q3",
+        "subject": "Geography",
+        "questionText": "Which continent is the Sahara Desert located in?",
+        "option": ["Africa", "Asia", "Australia", "North America"],
+        "correctAnswer": "Africa",
+        "questionType": "SCQ"
+      },
+      {
+        "questionId": "Q4",
+        "subject": "Chemistry",
+        "questionText": "Identify all noble gases.",
+        "option": ["Helium", "Oxygen", "Neon", "Argon"],
+        "correctAnswer": "Helium,Neon,Argon",
+        "questionType": "MCQ"
+      },
+      {
+        "questionId": "Q5",
+        "subject": "Physics",
+        "questionText": "Enter the Planck's constant value (Js):",
+        "option": [],
+        "correctAnswer": "6.62607015e-34",
+        "questionType": "INT"
+      }
+    ],
+    "testDateAndTime": "2025-01-02T22:04:00Z"
+  }
+]
