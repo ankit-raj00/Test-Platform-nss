@@ -1,5 +1,17 @@
-Link - https://test-platform-phi.vercel.app /n
-The testPlatform is a robust and feature-rich MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline online test-taking and performance analysis for students while providing admins with powerful tools for test management and student monitoring. This document covers the overall structure of the application, its features, workflows, and APIs.
+# Test Platform
+
+**Link** – [https://test-platform-phi.vercel.app](https://test-platform-phi.vercel.app)
+
+
+## 🔐 Sample Login Credentials
+
+- **Username:** `test`  
+- **Email:** `test@gmail.com`  
+- **Password:** `1234567`  
+- **Enrollment No.:** `22322020`
+  
+The **TestPlatform** is a robust and feature-rich **MERN** (MongoDB, Express.js, React.js, Node.js) application designed to streamline online test-taking and performance analysis for students while providing admins with powerful tools for test management and student monitoring.
+
 Features
 1. User Roles
 Students
